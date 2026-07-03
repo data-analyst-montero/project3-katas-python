@@ -69,7 +69,7 @@ En conjunto, el proyecto aplica diferentes herramientas de Python para resolver 
   
 5. Bibliotecas utilizadas
 
-La mayoría de los ejercicios desarrollados utilizan únicamente bibliotecas estándar de Python, por lo que no es necesario instalar paquetes externos.
+La mayoría de los ejercicios desarrollados utilizan únicamente bibliotecas estándar de Python.
 
 | Biblioteca               | Uso                                                 |
 | ------------------------ | --------------------------------------------------- |
