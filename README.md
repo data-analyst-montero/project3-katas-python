@@ -61,7 +61,7 @@ En conjunto, el proyecto aplica diferentes herramientas de Python para resolver 
 ├── README.md
 ```
 
-4. Instalación y Requisitos
+### 4. 🛠️ Instalación y Requisitos
 
 * Python 3.8 o superior
 * Terminal o consola de comandos
